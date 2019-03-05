@@ -1,1 +1,1 @@
-http://Kakahrrot/github.io/
+http://kakahrrot/github.io/
